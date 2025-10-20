@@ -12,4 +12,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . /app
 
 # Set entrypoint to your script
-ENTRYPOINT ["python", "translator.py"]
+CMD ["/bin/bash"]
