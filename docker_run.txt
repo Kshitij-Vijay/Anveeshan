@@ -1,0 +1,2 @@
+docker build -t nllb-translator .
+docker run -it nllb-translator
