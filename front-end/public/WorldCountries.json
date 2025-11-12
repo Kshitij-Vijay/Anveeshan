@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ADMIN": "India",
+        "ISO_A3": "IND",
+        "LANGUAGE": "Hindi, English"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[68.17665, 7.96553], [97.40256, 35.49401]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADMIN": "United States of America",
+        "ISO_A3": "USA",
+        "LANGUAGE": "English"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-125, 25], [-66, 49]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADMIN": "China",
+        "ISO_A3": "CHN",
+        "LANGUAGE": "Mandarin Chinese"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73, 18], [135, 53]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADMIN": "Brazil",
+        "ISO_A3": "BRA",
+        "LANGUAGE": "Portuguese"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-74, -34], [-34, 5]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADMIN": "France",
+        "ISO_A3": "FRA",
+        "LANGUAGE": "French"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[ -5, 42 ], [ 9, 51 ]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADMIN": "Japan",
+        "ISO_A3": "JPN",
+        "LANGUAGE": "Japanese"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[129, 31], [146, 46]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADMIN": "Germany",
+        "ISO_A3": "DEU",
+        "LANGUAGE": "German"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[5, 47], [15, 55]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADMIN": "Canada",
+        "ISO_A3": "CAN",
+        "LANGUAGE": "English, French"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-140, 42], [-52, 83]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADMIN": "Australia",
+        "ISO_A3": "AUS",
+        "LANGUAGE": "English"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[113, -44], [154, -10]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADMIN": "Russia",
+        "ISO_A3": "RUS",
+        "LANGUAGE": "Russian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[30, 41], [180, 82]]]
+      }
+    }
+  ]
+}
