@@ -38,7 +38,7 @@ def choose_option(prompt, options):
         exit()
 
 def translate_via_api(model_choice, hf_token, text, src_lang, tgt_lang):
-    API_URL = f"https://api-inference.huggingface.co/models/{model_choice}"
+    API_URL = f"https://api-inference.huggingface.co/hf-inference/models/{model_choice}"
     headers = {"Authorization": f"Bearer {hf_token}"}
     payload = {
         "inputs": text,
